@@ -1,0 +1,126 @@
+﻿body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000000;
+	background-color: #EEEEFF;
+	font-size: small;
+	text-align: justify;
+	letter-spacing: normal;
+	line-height: normal;
+}
+h3,h5 {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-variant: small-caps;
+	text-transform: capitalize;
+	color: #000000;
+	background-color: #999999;
+	text-align: center;
+}
+ul {
+	list-style-image: url('image/animated-bullet-10.gif');
+}
+.MsoNormal {
+	vertical-align: top;
+}
+#Contact {
+	text-align: right;
+	vertical-align: top;
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	color: #000000;
+	font-size: medium;
+	top: auto;
+	right: inherit;
+	margin: auto;
+	clip: rect(auto, auto, auto, auto);
+}
+a {
+	text-decoration: none;
+	color: #808000;
+}
+#CompareTable {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+	font-size: x-small;
+	font-weight: lighter;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: none;
+	text-align: center;
+	border-spacing: inherit;
+	border-collapse: collapse;
+	border: thin groove #CCCCCC;
+	width: 980px;
+	right: auto;
+	left: auto;
+	table-layout: auto;
+	margin: 1px;
+	box-shadow: #C0C0C0;
+}
+.OddRow {
+	background-color: #B3CCE6;
+}
+.EvenRow {
+	background-color: #F0E1FF;
+}
+#Copyright {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	font-style: italic;
+	font-variant: normal;
+	text-transform: capitalize;
+	color: #000080;
+	background-color: #FFA282;
+}
+#allPage {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+	left: auto;
+	right: auto;
+	position: absolute;
+	border-spacing: inherit;
+}
+#menuPage {
+	vertical-align: top;
+	color: #000000;
+}
+h4 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: small;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.headerRow {
+	background-color: #FFFFFF;
+}
+#phoneCaption {
+	font-family: Arial;
+	font-size: xx-small;
+	font-style: italic;
+	font-weight: lighter;
+	font-variant: normal;
+	text-transform: none;
+	color: #000000;
+	text-align: center;
+}
+#bigTable {
+	border: thin dotted #C0C0C0;
+	width: 80px;
+	right: auto;
+	left: auto;
+	border-radius: 980px;
+}
+h6 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: x-small;
+	font-weight: bold;
+	font-style: normal;
+}
+div {
+	width: 980px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#para1 {
+	font-size: small;
+}
